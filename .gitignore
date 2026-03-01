@@ -11,8 +11,8 @@ venv/
 .env.*
 
 .csv
-.xsl
-.xslx
+.xls
+.xlsx
 .parquet
 
 # Jupyter
