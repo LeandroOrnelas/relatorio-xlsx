@@ -47,3 +47,4 @@ data/**
 .pytest_cache/
 .mypy_cache/
 .cache/
+*.xlsx
