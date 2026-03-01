@@ -1,0 +1,44 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs (mantém a pasta com .gitkeep)
+logs/**
+!logs/.gitkeep
+*.log
+
+# Data (ignorar tudo)
+data/**
+
+# …mas manter as pastas vazias com .gitkeep
+!data/
+!data/.gitkeep
+!data/raw/
+!data/raw/.gitkeep
+!data/processed/
+!data/processed/.gitkeep
+!data/parquet/
+!data/parquet/.gitkeep
+
+
+# Caches de ferramentas
+.pytest_cache/
+.mypy_cache/
+.cache/
