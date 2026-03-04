@@ -1,9 +1,11 @@
 # 📊 relatorio-xlsx 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-DataFrame-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-XLSX-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+
 
 
 
@@ -32,6 +34,8 @@ relatorio-xlsx/
 └─ README.md
 ```
 
+ ---
+
 ## 📌 Sobre o Autor
 
 Desenvolvido por **Leandro Ornelas**
@@ -44,6 +48,6 @@ Desenvolvido por **Leandro Ornelas**
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/leandroornelas/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
   </a>
 </p>
